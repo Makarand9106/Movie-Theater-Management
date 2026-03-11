@@ -1,0 +1,16 @@
+movie_id,movie_name,duration_min,genre_ids
+1,Interstellar,169,1|4|5
+2,Inception,148,1|4
+3,The Dark Knight,152,3|4|2
+4,The Hangover,100,6
+5,The Conjuring,112,7
+6,The Notebook,123,8|2
+7,Knives Out,130,9|6
+8,The Lord of the Rings,178,10|5|3
+9,Guardians of Galaxy,121,1|6|5
+10,Parasite,132,4|2
+11,Hereditary,127,7|2
+12,La La Land,128,8|2|6
+13,The Prestige,130,9|4|1
+14,Mad Max Fury Road,120,3|5|1
+15,Deadpool,108,3|6
